@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Hendy;Barry;;;
+FN: Barry Hendy 
+ORG:Aurous;
+TITLE:Manager
+EMAIL;type=INTERNET;type=WORK;type=pref:barry@aurous.org.au
+TEL;type=WORK;type=VOICE:+61 0403 825 106
+item1.ADR;type=WORK;type=pref:;;15 jenner Street, Nundah;;;Brisbane
+item1.X-ABADR:QLD
+item2.URL;type=pref:aurous.org.au
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
